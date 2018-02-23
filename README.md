@@ -6,5 +6,4 @@ The file CoolerTestDrive.ino implements multiple functionalities into a program 
   -Reads the current being drawn by the motors
   -Test if the RC transmitter (paired with the onboard reciever) is powered on (interrupt)
   -Drive the cooler using either serial line inputs or the RC transmitter
-  -Come to a stop if too much current is drawn (one of the motors stall)
-  -
+	-Come to a stop if too much current is drawn (one of the motors stall)
